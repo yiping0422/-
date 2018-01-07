@@ -11,7 +11,7 @@
 library(data.table)
 jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
 ```
-![image]()
+![image](https://github.com/yiping0422/-/blob/master/1515323051798.jpg?raw=true)
 ![image](https://github.com/yiping0422/-/blob/master/1515323158800.jpg?raw=true)
 ```
 jin <- jin[,-2]
