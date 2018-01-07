@@ -53,5 +53,5 @@ city<- table(jin$local5)
 View(city)
 city1<-data.table(city)
 ```
+![image](https://github.com/yiping0422/-/blob/master/26694057_1771546239542927_301456047_n.jpg?raw=true)
 
-![image](picture or gif url)
