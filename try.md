@@ -21,23 +21,23 @@ jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
 
 ![image](https://github.com/yiping0422/-/blob/master/%E5%92%A9.gif?raw=true)
 
-記事本看 -- 又多又花
+記事本  - - - 又多又花
 
-Excel -- 嗯...顯然一堆不需要的，整欄選取刪一刪 >>>
+Excel  - - - 嗯 . . . 顯然一堆不需要的，整欄選取刪一刪  >>>
 
 ![image](https://github.com/yiping0422/-/blob/master/1515323158800.jpg?raw=true)
 
 ![image](https://github.com/yiping0422/-/blob/master/%E5%92%A9.gif?raw=true)
 
-......
+. . . . . .
 
-台南依山傍海，這 3xx 個地點還是篩選一下吧 >>>
+台南依山傍海，這 3xx 個地點還是篩選一下吧  >>>
 
 ![image](https://github.com/yiping0422/-/blob/master/try.jpg?raw=true)
 
 ![image](https://github.com/yiping0422/-/blob/master/%E5%92%A9.gif?raw=true)
 
-這... 還真不是用 Excel 的時機啊 ~ ( 茶
+這 . . . 還真不是用 Excel 的時機啊  ~ ( 茶
 
 ```
 jin <- jin[,-2]
@@ -81,9 +81,9 @@ View(city)
 city1<-data.table(city)
 ```
 
-最後把數字披上地圖 >>>
+最後把數字披上地圖  >>>
 
-......
+. . . . . .
 
 ![image](https://github.com/yiping0422/-/blob/master/%E7%A7%80.gif?raw=true) 哇~~
 
