@@ -81,10 +81,34 @@ View(city)
 city1<-data.table(city)
 ```
 
+最後把數字披上地圖 >>>
+
+......
+
 ![image](https://github.com/yiping0422/-/blob/master/%E7%A7%80.gif?raw=true) 哇~~
 
 ![image](https://github.com/yiping0422/-/blob/master/26694057_1771546239542927_301456047_n.jpg?raw=true)
 
 
 
+
+
+
+
+
+
+
+### 然後報告就做完了
+      
+      .
+      .
+      .
+      .
+      .
+      .
+      
+### 現在報完了
+### 所以寒假開始
+
+## 報告，是進入寒假前的終極大BOSS
 
