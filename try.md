@@ -4,7 +4,7 @@
   3. 開始行前準備啦~
   
 ![image](https://github.com/yiping0422/-/blob/master/%E7%A7%80.gif?raw=true)
----
+---------
 ## 目標！臺南！
 怎麼決定台南的不是重點，
 #### 重 . 點 . 是 . 
@@ -93,15 +93,10 @@ city1<-data.table(city)
 
 
      *
-     
+     * 
      *
-     
+     *
      *
-     
-     *
-     
-     *
-     
      *
 
 
