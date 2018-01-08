@@ -6,12 +6,18 @@
 ![image](https://github.com/yiping0422/-/blob/master/%E7%A7%80.gif?raw=true)
 ---
 ## 目標！臺南！
-
+怎麼決定台南的不是重點，
+#### 重 . 點 . 是 . 
+接著把資料載下來  ヾ ( * ´  ∀  ˋ  * ) ﾉ
 ```
 library(data.table)
 jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
 ```
+#### 燈燈燈燈！
+
 ![image](https://github.com/yiping0422/-/blob/master/1515323051798.jpg?raw=true)
+
+######               好多！
 
 ![image](https://github.com/yiping0422/-/blob/master/%E5%92%A9.gif?raw=true)
 
@@ -22,6 +28,7 @@ jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
 ![image](https://github.com/yiping0422/-/blob/master/try.jpg?raw=true)
 
 ![image](https://github.com/yiping0422/-/blob/master/%E5%92%A9.gif?raw=true)
+
 ```
 jin <- jin[,-2]
 jin <- jin[,-3]
