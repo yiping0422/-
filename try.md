@@ -114,7 +114,7 @@ jin <- jin[-14,]
 
 ## 目標！終端攻略！
 
-最終階段，抽出地點並建立表格，再抽出地點 ![image](https://github.com/yiping0422/-/blob/master/%E7%BF%BC%E7%A9%BA%E5%A4%A7.gif?raw=true)
+最終階段，抽出地點並建立表格，再抽出地點 ![image](https://github.com/yiping0422/-/blob/master/%E5%B0%8F%E7%BF%BC%E7%A9%BA.gif?raw=true)
 
 ```
 city<- table(jin$local5)
