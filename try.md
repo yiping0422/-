@@ -75,11 +75,15 @@ jin <- jin[-14,]
     .
 ```
 
+![image](https://github.com/yiping0422/-/blob/master/R1.jpg?raw=true)
+
 ```
 city<- table(jin$local5)
 View(city)
 city1<-data.table(city)
 ```
+
+![image](https://github.com/yiping0422/-/blob/master/R2.jpg?raw=true)
 
 最後把數字披上地圖  >>>
 
