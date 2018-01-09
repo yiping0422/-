@@ -65,6 +65,8 @@ jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
 
 ![image](https://github.com/yiping0422/-/blob/master/R3.jpg?raw=true)
 
+#### 2. 開始刪
+
 ```
 jin <- jin[,-2]
 jin <- jin[,-3]
@@ -80,8 +82,6 @@ jin <- jin[,-4]
 ![image](https://github.com/yiping0422/-/blob/master/R4.jpg?raw=true)
 
 一長串的，把需要的留下，不需要的取代掉、刪掉 . . . . . . 
-
-![image](
 
 ```
 jin[, opentime2 := substr(jin$開放時間,start=1,stop=3)]
@@ -123,6 +123,8 @@ city<- table(jin$local5)
 
 city1<-data.table(city)
 ```
+
+就這樣，整理出我們要的數據了。
 
 ![image](https://github.com/yiping0422/-/blob/master/R2.jpg?raw=true)
 
