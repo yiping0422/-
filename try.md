@@ -31,7 +31,7 @@ Excel  - - - 嗯 . . . 顯然一堆不需要的，整欄選取刪一刪  >>>
 
 . . . . . .
 
-台南依山傍海，這 3xx 個地點還是篩選一下吧  >>>
+台南依山傍海，這 376 個地點還是篩選一下吧  >>>
 
 ![image](https://github.com/yiping0422/-/blob/master/try.jpg?raw=true)
 
@@ -39,6 +39,7 @@ Excel  - - - 嗯 . . . 顯然一堆不需要的，整欄選取刪一刪  >>>
 
 這 . . . 還真不是用 Excel 的時機啊  ~ ( 茶
 
+## 目標！ R 的彼方！
 ```
 jin <- jin[,-2]
 jin <- jin[,-3]
@@ -76,6 +77,8 @@ jin <- jin[-14,]
 ```
 
 ![image](https://github.com/yiping0422/-/blob/master/R1.jpg?raw=true)
+
+## 目標！終端攻略！
 
 ```
 city<- table(jin$local5)
