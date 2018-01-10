@@ -12,6 +12,8 @@
 怎麼決定台南的不是重點，
 #### 重 . 點 . 是 . 
 接著把資料載下來  ヾ ( * ´  ∀  ˋ  * ) ﾉ
+
+臺南景點.csv'
 ```
 library(data.table)
 jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
