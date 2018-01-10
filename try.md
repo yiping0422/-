@@ -11,13 +11,13 @@
 
 怎麼決定台南的不是重點，
 #### 重 . 點 . 是 . 
+
+台南辣麼大， 要去哪兒呢~
+
 接著把資料載下來  ヾ ( * ´  ∀  ˋ  * ) ﾉ
 
 臺南景點.csv'
-```
-library(data.table)
-jin <- fread('C:\\Users\\user\\Desktop\\臺南景點.csv')
-```
+
 #### 燈燈燈燈！
 
 ![image](https://github.com/yiping0422/-/blob/master/1515323051798.jpg?raw=true)
